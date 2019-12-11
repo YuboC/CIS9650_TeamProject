@@ -27,7 +27,7 @@ In addition to creating a user input interface for finding what is the best zip 
 
 ## DATASETS
 
-The data sets we plan to use has been gathered in the following Google Drive folder and is available in this GitHub repository:
+The data sets we used has been gathered in the following Google Drive folder and is available in this GitHub repository:
 https://drive.google.com/drive/folders/1fBR1k4QuSpaptG9UMYcb7BjKspU6FSVr?usp=sharing
 https://github.com/YuboC/CIS9650_TeamProject
 
@@ -35,4 +35,4 @@ https://github.com/YuboC/CIS9650_TeamProject
 
 We have also included a presentation slide of our project. Click on 'Powerpoint Presentation' above for our in-class presentation.
 
-To see step-by-step on how to run the files, click on the 'User Manual' folder, which divides our project into two parts, and shows you step-by-step what to do to run the files.
+To see step-by-step on how to run the files, click on the 'User Manual' folder, which divides our project into two parts, and shows you step-by-step what to do to run the files for each part.
