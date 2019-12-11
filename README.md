@@ -35,4 +35,4 @@ https://github.com/YuboC/CIS9650_TeamProject
 
 We have also included a presentation slide of our project. Click on 'Powerpoint Presentation' above for our in-class presentation.
 
-To see step-by-step on how to run the files, click on the 'User Manual' folder, which divides our project into two parts, and shows you step-by-step what to do to run the files for each part.
+To see step-by-step on how to run the files, click on the 'User Manual' folder, which divides our project into two parts, and shows you step-by-step what to do to run the files for each part (Note, for 'User Input', only run the 'User_Input.py' file but download everything else)
