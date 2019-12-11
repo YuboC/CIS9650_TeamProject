@@ -31,4 +31,4 @@ The data sets we plan to use has been gathered in the following Google Drive fol
 https://drive.google.com/drive/folders/1fBR1k4QuSpaptG9UMYcb7BjKspU6FSVr?usp=sharing
 https://github.com/YuboC/CIS9650_TeamProject
 
-We have also included a presentation slide of our project, which is also located in the Google Drive folder above.
+We have also included a presentation slide of our project,
